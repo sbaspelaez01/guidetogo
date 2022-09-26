@@ -20,3 +20,4 @@ function logOut() {
       location.href = "login.html";
     }
   }
+  
